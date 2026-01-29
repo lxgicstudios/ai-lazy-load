@@ -1,14 +1,44 @@
 {
   "name": "ai-lazy-load",
   "version": "1.0.0",
-  "description": "Identify components that should be lazy loaded using AI",
+  "description": "AI-powered lazy loading setup - code splitting and dynamic imports with GPT analysis",
   "main": "dist/index.js",
-  "bin": { "ai-lazy-load": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["lazy-loading","performance","ai","cli","react"],
+  "bin": {
+    "ai-lazy-load": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "lazy-loading",
+    "performance",
+    "react",
+    "dynamic-import",
+    "code-splitting",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "optimization"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1", "glob": "^10.3.0" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1",
+    "glob": "^10.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/LXGIC-Studios/ai-lazy-load" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LXGIC-Studios/ai-lazy-load"
+  }
 }
