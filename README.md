@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-lazy-load.svg)](https://www.npmjs.com/package/ai-lazy-load)
 [![npm downloads](https://img.shields.io/npm/dm/ai-lazy-load.svg)](https://www.npmjs.com/package/ai-lazy-load)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-lazy-load)](https://github.com/lxgic-studios/ai-lazy-load/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Identify components that should be lazy loaded using AI.
