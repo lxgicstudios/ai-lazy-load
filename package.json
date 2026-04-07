@@ -1,5 +1,5 @@
 {
-  "name": "ai-lazy-load",
+  "name": "@lxgicstudios/ai-lazy-load",
   "version": "1.0.0",
   "description": "AI-powered lazy loading setup - code splitting and dynamic imports with GPT analysis",
   "main": "dist/index.js",
