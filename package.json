@@ -8,7 +8,7 @@
     "ai-lazy-load": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-lazy-load/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,26 +32,13 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-lazy-load#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-lazy-load",
   "keywords": [
-    "2026-standards",
-    "AI-optimized",
-    "AI-powered",
-    "automation",
-    "best-practices",
-    "cli",
-    "developer-tools",
-    "modern-seo",
+    "lazy-loading",
+    "code-splitting",
     "performance",
-    "seo-tools",
-    "technical-seo",
-    "utility",
-    "web-optimization",
-    "lxgic",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "bundle",
+    "dynamic-import"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -62,7 +49,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-lazy-load"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-lazy-load"
   },
   "scripts": {
     "build": "tsc"
